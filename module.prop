@@ -1,0 +1,7 @@
+id=MemBacFro
+name=Memory Background Frozen
+version=v1
+versionCode=1
+author=@LeanHijosdesusMadres
+description=This module will cause apps that have been in the background for a certain amount of time to be placed in a "deep standby" state where they are granted less memory in the background and are more restricted from accessing system resources (more than what it would do in the background normally).
+support=https://t.me/modulostk
