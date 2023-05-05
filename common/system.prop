@@ -1,0 +1,4 @@
+####################
+persist.sys.memfreeze.enable=true
+
+# @modulostk en telegram
